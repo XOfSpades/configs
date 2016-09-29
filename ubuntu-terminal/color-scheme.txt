@@ -1,0 +1,4 @@
+
+Color Scheme cai
+$ wget -O xt  http://git.io/v3Dli && chmod +x xt && ./xt && rm xt
+
