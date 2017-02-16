@@ -9,8 +9,17 @@ export PS1='\[\033[01;32m\]\u@\h\[\033[01;34m\] \w\[\033[01;33m\]$(__git_ps1)\[\
 export VISUAL=vim
 export EDITOR="$VISUAL"
 
+# vpn config
+# alias vpn='sudo openvpn --config /home/bernhard/.cert/SOME-CERT.ovpn --dev tun1'
+
 # Python related stuff
 # export PATH="/home/bernhard/.pyenv/bin:$PATH"
+
+# Python with anaconda, miniconda or conda
+# alias python3.6="source activate python3.6"
+# alias stop-python3.6="source deactivate python3.6"
+# alias python2.7="source activate python2.7"
+# alias stop-python2.7="source deactivate python2.7"
 
 # Erlang related stuff
 # source $HOME/.evm/scripts/evm
