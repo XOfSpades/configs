@@ -31,3 +31,7 @@ export EDITOR="$VISUAL"
 # Elixir related stuff
 # export PATH="$HOME/.exenv/bin:$PATH"
 # eval "$(exenv init -)"
+
+# Ruby related stuff
+# export PATH="$HOME/.rbenv/bin:$PATH"
+# eval "$(rbenv init -)"
